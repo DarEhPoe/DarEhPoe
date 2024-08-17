@@ -1,4 +1,4 @@
-# Hello, I'm Sawdar Eh 👋
+# Hello, I'm Saw Dar Eh 👋
 
 I'm passionate about **Full Stack Development** and **Data Science**. I love building comprehensive web applications that leverage data to create impactful solutions. My journey in tech has been driven by curiosity and a desire to continuously learn and grow.
 
