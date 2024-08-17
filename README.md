@@ -10,8 +10,8 @@ I'm passionate about **Full Stack Development** and **Data Science**. I love bui
 I'm currently deepening my knowledge in advanced web development frameworks and machine learning algorithms.
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/sawdareh)
-- [Email](mailto:sawdareh@example.com)
+- [LinkedIn](https://www.linkedin.com/in/sawd-dar-eh)
+- [Email](mailto:ehdar140759@gmail.com)
 
 Thanks for stopping by!
 
